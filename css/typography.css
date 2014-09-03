@@ -1,0 +1,35 @@
+/* ----- Defaults ----- */
+.arvo{font-family: 'Arvo', serif;}
+.raleway{font-family: 'Raleway', sans-serif;}
+body{font:15px/24px 'Raleway',sans-serif;color:#3f3f40;}
+strong{font-weight:bold;}
+em{font-style:italic;}
+
+a{text-decoration:none;transition:0.2s all;-webkit-transition:0.2s all;-moz-transition:0.2s all;-ms-transition:0.2s all;-o-transition:0.2s all;}
+	a:hover{opacity:0.7;}
+
+/* ----- Headings ----- */
+h1{font-weight:500;font:24px/30px 'Raleway',Arial,sans-serif;font-weight:600;margin:0 0 .5em;}
+h2{font-weight:500;font:22px/28px 'Raleway',Arial,sans-serif;font-weight:600;margin:0 0 .5em;}
+h3{font-weight:500;font:20px/26px 'Raleway',Arial,sans-serif;font-weight:600;margin:0 0 .5em;}
+h4{font-weight:500;font:18px/24px 'Raleway',Arial,sans-serif;font-weight:600;margin:0 0 .5em;}
+h5{font-weight:500;font:15px/22px 'Raleway',Arial,sans-serif;font-weight:600;margin:0 0 .5em;}
+h6{font-weight:500;font:14px/20px 'Raleway',Arial,sans-serif;font-weight:600;margin:0 0 .5em;}
+
+#archive-query h1{color:#002b5b;font-size: 30px;margin: 0 0 35px 0;}
+	#archive-query span{font-family:'Arvo',serif;font-style:italic;font-weight:normal;}
+
+/* ----- Body ----- */
+p{margin:0 0 1.5em 0;}
+blockquote{font-size:18px;line-height:24px;}
+
+table{width:100%;margin:20px 0;}
+	thead{background:#ccc;}
+	tfoot{background:#ccc;}
+	tbody{background:#e4e4e4;}
+	tr{}
+	td{padding:8px;}
+
+#content ol{margin:15px 0 15px 25px;list-style: decimal;}
+#content ul{margin:15px 0 15px 25px;list-style: disc;}
+	#content li{margin:2px 0;}

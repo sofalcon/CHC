@@ -1,0 +1,13 @@
+/*
+Theme Name: Center for Hearing and Communication
+Theme URI: http://meshfresh.com
+Author: MESH Design and Development
+Author URI: http://meshfresh.com
+Description: CMS theme for Center for Hearing and Communication.
+Version: 1.0
+*/
+
+@import url('http://fonts.googleapis.com/css?family=Arvo:400,700,400italic|Raleway:400,700,600,500');
+@import url('css/reset.css');
+@import url('css/typography.css');
+@import url('css/chc.css');
