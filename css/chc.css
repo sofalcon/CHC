@@ -135,8 +135,8 @@ header .megamenuData-columnLeft, header .megamenuData-columnRight, header .megam
 
 
 	#content.orange-theme	#sidebar-menu ul#sidebar-nav > li > ul li > ul li.current-menu-item > a { background: white; color:#ED8045 !important; width: 86%; display: block; }
-	#content.blue-theme	#sidebar-menu ul#sidebar-nav > li > > ul li > ul li.current-menu-item > a { background: white; color:#2599e7 !important; width: 86%; display: block; }
-	#content.green-theme	#sidebar-menu ul#sidebar-nav > li > > ul li > ul li.current-menu-item > a { background: white; color:#7aca8f !important; width: 86%; display: block; }
+	#content.blue-theme	#sidebar-menu ul#sidebar-nav > li > ul li > ul li.current-menu-item > a { background: white; color:#2599e7 !important; width: 86%; display: block; }
+	#content.green-theme	#sidebar-menu ul#sidebar-nav > li > ul li > ul li.current-menu-item > a { background: white; color:#7aca8f !important; width: 86%; display: block; }
 
 	#sidebar-menu ul#sidebar-nav > li > ul li > ul li > a{ margin: 0px 5px; }
 
