@@ -19,9 +19,6 @@
 					$ava = get_avatar($author['ID'], 30); ?>
 					<a href="<?php echo $author['posts_url']; ?>">
 						<div class="author-entry">
-							<div class="author-ava">
-								<?php echo $ava; ?>
-							</div>
 							<div class="author-name">
 								<?php echo $author['name']; ?>
 							</div>
