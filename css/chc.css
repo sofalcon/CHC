@@ -128,7 +128,7 @@ header .megamenuData-columnLeft, header .megamenuData-columnRight, header .megam
 	#sidebar-menu ul#sidebar-nav > li > a{display:none;background: #fff;float: left;width: 124px;position: relative;padding: 0 0 0 17px;}
 		#sidebar-menu ul#sidebar-nav > li.current-menu-item > a{font-weight:bold;}
 
-	#sidebar-menu ul#sidebar-nav > li > ul{background: #fff;float: left;width: 124px;position: relative;padding: 0 0 0 17px;}
+	#sidebar-menu ul#sidebar-nav > li > ul{background: #fff;float: left;width: 124px;position: relative;padding: 15px;}
 		#sidebar-menu ul#sidebar-nav li.current-menu-ancestor > ul, #sidebar-menu ul#sidebar-nav li.current-menu-ancestor > ul li{display:block;}
 	#sidebar-menu ul#sidebar-nav > li > ul li{line-height: 15px;padding: 3px 0;}
 		#sidebar-menu ul#sidebar-nav > li > ul li.current-menu-item, #sidebar-menu ul#sidebar-nav > li > ul li.current-menu-parent{font-weight:bold;}
