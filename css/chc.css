@@ -129,7 +129,7 @@ header .megamenuData-columnLeft, header .megamenuData-columnRight, header .megam
 		#sidebar-menu ul#sidebar-nav > li.current-menu-item > a{font-weight:bold;}
 
 	#sidebar-menu ul#sidebar-nav > li > ul{background: #fff;float: left;width: 124px;position: relative;padding: 5px 15px;}
-		#sidebar-menu ul#sidebar-nav li.current-menu-ancestor > ul, #sidebar-menu ul#sidebar-nav li.current-menu-ancestor > ul li{display:block; margin: 10px 0px; }
+		#sidebar-menu ul#sidebar-nav li.current-menu-ancestor > ul, #sidebar-menu ul#sidebar-nav li.current-menu-ancestor > ul li{display:block; margin: 10px 0px; line-height: 18px; }
 		#sidebar-menu ul#sidebar-nav li.current-menu-ancestor > ul li > ul li{display:block; margin: 20px 0px; }
 	#sidebar-menu ul#sidebar-nav > li > ul li{line-height: 18px;padding: 3px 0;}
 	  #sidebar-menu ul#sidebar-nav > li > ul li > ul li {line-height: 18px;padding: 3px 0;}
