@@ -10,7 +10,7 @@ jQuery(document).ready(function($){
 	if($('#content:not(.blog)').height() < $(document).height() - 355){
 		$('#content:not(.blog)').height($('#content').height() - 355);
 	}
-	$('.colorbar, #content.blog, #content.blog #contentPrimary, #content.blog #contentSecondary').height($(document).height() - 120);
+	$('#content.blog, #content.blog #contentPrimary, #content.blog #contentSecondary').height($(document).height() - 120);
 	$('#contentContainer').height($(window).height() - 110);
 	$(window).resize(function() {
 	    var scrollVal = $(document).height;
