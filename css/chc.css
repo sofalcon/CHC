@@ -215,7 +215,7 @@ header .megamenuData-columnLeft, header .megamenuData-columnRight, header .megam
 #content.blog .titleCont h1{text-transform:uppercase;color:#92b6da;}
 #content.blog #contentSecondary .gutter {padding: 40px 8px 0 11px;}
 #content.blog #contentSecondary .titleCont{border:none;height:auto;}
-#content.blog .titleCont h1 {text-transform:none;font-size: 32px;line-height: 36px;position: relative;margin: 26px 0 0 0;}
+#content.blog .titleCont h1 {text-transform:none;font-size: 32px;line-height: 36px;position: relative;margin: 26px 0 0 0;   text-transform: uppercase;}
 
 .post-heading{padding: 0 0 9px;margin: 0 0 12px;border-bottom: 1px double #e3e3e4;}
 .post-heading h1 {margin: 0;line-height: 24px;}
