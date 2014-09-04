@@ -138,9 +138,9 @@ header .megamenuData-columnLeft, header .megamenuData-columnRight, header .megam
 		#sidebar-menu ul#sidebar-nav > li > ul > li.current-menu-item > ul, #sidebar-menu ul#sidebar-nav > li > ul > li.current-menu-ancestor > ul{display:block;position: absolute;z-index: 2;right: -100%;width: 94%;top:0;}
 	#sidebar-menu ul#sidebar-nav > li > ul > li > ul li{}
 	#sidebar-menu ul#sidebar-nav > li > ul > li > ul li a{font-size:12px;color: #fff !important;padding: 0 0 0 10px;font-weight:600;line-height:18px; float:left; padding-bottom: 6px;}
-		#sidebar-menu ul#sidebar-nav > li > ul > li > ul li.current-menu-item a{background:url(../img/sidebarCaret.png) 0 40% no-repeat;}
+		/* #sidebar-menu ul#sidebar-nav > li > ul > li > ul li.current-menu-item a{background:url(../img/sidebarCaret.png) 0 40% no-repeat;} */
 
-		 
+
 		#sidebar-menu ul#sidebar-nav > li#menu-item-103 > ul li {display: none;}
 
 
