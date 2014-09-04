@@ -133,7 +133,7 @@ header .megamenuData-columnLeft, header .megamenuData-columnRight, header .megam
 	#sidebar-menu ul#sidebar-nav > li > ul li{line-height: 18px;padding: 3px 0;}
 		#sidebar-menu ul#sidebar-nav > li > ul li.current-menu-item, #sidebar-menu ul#sidebar-nav > li > ul li.current-menu-parent{font-weight:bold;}
 		#sidebar-menu ul#sidebar-nav > li > ul li.current-menu-item > a { background: white; color:#ED8045 !important; width: 86%; display: block; }
-	#sidebar-menu ul#sidebar-nav > li > ul li > a{ margin: 0px 5px; }
+	#sidebar-menu ul#sidebar-nav > li > ul li > ul li > a{ margin: 0px 5px; }
 
 	#sidebar-menu ul#sidebar-nav > li > ul > li > ul{display:none;}
 		#sidebar-menu ul#sidebar-nav > li > ul > li.current-menu-item > ul, #sidebar-menu ul#sidebar-nav > li > ul > li.current-menu-ancestor > ul{display:block;position: absolute;z-index: 2;right: -94%;width: 94%;top:0;}
