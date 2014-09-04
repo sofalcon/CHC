@@ -335,7 +335,7 @@ footer{background:#424345;position:fixed;bottom:0;left:0;width:100%;margin:0;z-i
 		footer #social ul{}
 			footer #social ul ul{display:none;}
 		footer #social ul li{float:left;display:block;margin:3px 10px 0 0;}
-		footer #social ul li a{display:block;height:16px;width:16px;background:url(../img/footerSocial.png) no-repeat;text-indent:-9999px;}
+		footer #social ul li a{display:block;height:16px;width:16px;background:url(../img/footerSocial-1.png) no-repeat;text-indent:-9999px;}
 			footer #social ul li.blogspot a{background-position:0 0;}
 			footer #social ul li.facebook a{background-position:-23px 0;}
 			footer #social ul li.twitter a{background-position:-50px 0;}
@@ -343,6 +343,7 @@ footer{background:#424345;position:fixed;bottom:0;left:0;width:100%;margin:0;z-i
 			footer #social ul li.youtube a{background-position:-108px 0;}
 			footer #social ul li.googleplus a{background-position:-164px 0;}
 			footer #social ul li.pinterest a{background-position:-138px 0;}
+			footer #social ul li.instagram a{background-position:-192px 0;}
 			footer #social ul li.signin a{background:none;height:auto;width:auto;text-indent:0px;font-size:11px;line-height:11px;margin:3px 0 0 0;}
 
 	footer #fNav{float:right;}
