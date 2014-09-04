@@ -146,9 +146,12 @@ header .megamenuData-columnLeft, header .megamenuData-columnRight, header .megam
 
 
 	/* -- Color Scheme -- */
-	#content.green-theme, #content.green-theme #contentPrimary a, #content.green-theme #sidebar-menu ul#sidebar-nav > li > ul li > a, #content.green-theme #contentPrimary .titleCont h1 a, #content.green-theme #sidebar-menu ul#sidebar-nav > li > a{color:#2599e7;}
-	#content.blue-theme, #content.blue-theme #contentPrimary a, #content.blue-theme #sidebar-menu ul#sidebar-nav > li > ul li > a, #content.blue-theme #contentPrimary .titleCont h1 a, #content.blue-theme #sidebar-menu ul#sidebar-nav > li > a{color:#2599e7;}
-	#content.orange-theme, #content.orange-theme #contentPrimary a, #content.orange-theme #sidebar-menu ul#sidebar-nav > li > ul li > a, #content.orange-theme #contentPrimary .titleCont h1 a, #content.orange-theme #sidebar-menu ul#sidebar-nav > li > a{color:#2599e7;}
+	#content.green-theme #contentPrimary a {color:#2599e7;}
+	#content.green-theme, #content.green-theme #sidebar-menu ul#sidebar-nav > li > ul li > a, #content.green-theme #contentPrimary .titleCont h1 a, #content.green-theme #sidebar-menu ul#sidebar-nav > li > a{color:#7aca8f;}
+	#content.blue-theme #contentPrimary a {color:#2599e7}
+	#content.blue-theme, #content.blue-theme #sidebar-menu ul#sidebar-nav > li > ul li > a, #content.blue-theme #contentPrimary .titleCont h1 a, #content.blue-theme #sidebar-menu ul#sidebar-nav > li > a{color:#2599e7;}
+	#content.orange-theme #contentPrimary a {color:#2599e7;}
+	#content.orange-theme, #content.orange-theme #sidebar-menu ul#sidebar-nav > li > ul li > a, #content.orange-theme #contentPrimary .titleCont h1 a, #content.orange-theme #sidebar-menu ul#sidebar-nav > li > a{color:#ED8045;}
 	#content.blog, #content.blog #contentPrimary a, #content.blog .titleCont h1{color:#4e8cc8;}
 
 	#content.green-theme .colorbar, #content.green-theme .grid-show{background:url(../img/CHC_BG_green.jpg);}
